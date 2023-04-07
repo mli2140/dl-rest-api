@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "aczrSqpPAZTWGlPcg7o6/ZCANMO9Bh7DkBhmYhSrs27LrfUVzyBpI8q0GQAngU7lYodKGdzZHs8Lr24gq0/Wew==",
+  "success": true,
+  "projectFilePath": "E:\\Test-tf-dotnet-api-base64\\Test-tf-dotnet-api-base64\\Test-tf-dotnet-api-base64.csproj",
+  "expectedPackageFiles": [
+    "C:\\Nugets\\imageprocessor\\2.9.1\\imageprocessor.2.9.1.nupkg.sha512",
+    "C:\\Nugets\\keras.net\\3.8.5\\keras.net.3.8.5.nupkg.sha512",
+    "C:\\Nugets\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Nugets\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Nugets\\numpy.bare\\3.8.1.28\\numpy.bare.3.8.1.28.nupkg.sha512",
+    "C:\\Nugets\\pythonnet_netstandard_py38_win\\2.5.1\\pythonnet_netstandard_py38_win.2.5.1.nupkg.sha512",
+    "C:\\Nugets\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Nugets\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'ImageProcessor 2.9.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "ImageProcessor",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

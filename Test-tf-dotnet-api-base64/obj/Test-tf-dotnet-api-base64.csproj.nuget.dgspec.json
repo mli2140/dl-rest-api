@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Test-tf-dotnet-api-base64\\Test-tf-dotnet-api-base64\\Test-tf-dotnet-api-base64.csproj": {}
+  },
+  "projects": {
+    "E:\\Test-tf-dotnet-api-base64\\Test-tf-dotnet-api-base64\\Test-tf-dotnet-api-base64.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Test-tf-dotnet-api-base64\\Test-tf-dotnet-api-base64\\Test-tf-dotnet-api-base64.csproj",
+        "projectName": "Test-tf-dotnet-api-base64",
+        "projectPath": "E:\\Test-tf-dotnet-api-base64\\Test-tf-dotnet-api-base64\\Test-tf-dotnet-api-base64.csproj",
+        "packagesPath": "C:\\Nugets",
+        "outputPath": "E:\\Test-tf-dotnet-api-base64\\Test-tf-dotnet-api-base64\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "ImageProcessor": {
+              "target": "Package",
+              "version": "[2.9.1, )"
+            },
+            "Keras.NET": {
+              "target": "Package",
+              "version": "[3.8.5, )"
+            },
+            "Numpy.Bare": {
+              "target": "Package",
+              "version": "[3.8.1.28, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
